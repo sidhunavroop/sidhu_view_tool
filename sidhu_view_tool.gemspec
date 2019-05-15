@@ -11,8 +11,6 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for application I use}
   spec.description   = %q{Provides generated HTML data for rails applications}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = 'MIT'
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
